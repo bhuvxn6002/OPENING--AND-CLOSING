@@ -61,16 +61,16 @@ display_img(closing_img,"Closing Image")
 ## Output:
 
 ### Display the input Image
+![download](https://github.com/user-attachments/assets/7fdc556b-d180-465e-8db9-a5fb53e72acf)
 
-![download](https://github.com/user-attachments/assets/62afd4b6-1081-4eca-bffc-01fbb45220bf)
 
 ### Display the result of Opening
+![download](https://github.com/user-attachments/assets/5b1a47e0-5db0-4708-a81b-6a2ffa5fa87a)
 
-![download](https://github.com/user-attachments/assets/937ca35c-6c80-43de-b5df-88f622811712)
 
 ### Display the result of Closing
+![download](https://github.com/user-attachments/assets/05c5f043-3509-478c-8b65-ca6606e93177)
 
-![download](https://github.com/user-attachments/assets/8a061f5d-7aaf-4907-ad91-c9fb006d1962)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
