@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 def load_img():
     blank_img = np.zeros((300,700), dtype=np.uint8)
     front = cv2.FONT_HERSHEY_SIMPLEX
-    cv2.putText(blank_img, text='RAKSHI', org=(50,200), fontFace=front, 
+    cv2.putText(blank_img, text='Bhuvan', org=(50,200), fontFace=front, 
                 fontScale=5, color=(255, 255, 255), thickness=25, lineType=cv2.LINE_AA)
     return blank_img
 
